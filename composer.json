@@ -12,9 +12,9 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": "^7.2.5",
+    "php": ">=5.5",
     "ext-json": "*",
-    "guzzlehttp/guzzle": "^7.0"
+    "guzzlehttp/guzzle": "^6.5"
   },
   "autoload": {
     "psr-4": {
