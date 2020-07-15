@@ -1,6 +1,7 @@
 {
   "name": "niefufeng/wework-webhook",
   "description": "企业微信webhook的php sdk",
+  "version": "1.0.0",
   "type": "library",
   "license": "MIT",
   "authors": [
