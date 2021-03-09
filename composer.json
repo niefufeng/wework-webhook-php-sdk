@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Niefufeng\\WeWorkWebHook\\": "src"
+      "NieFufeng\\WeWorkWebHook\\": "src"
     }
   }
 }
